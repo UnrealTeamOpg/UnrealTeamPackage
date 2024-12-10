@@ -1,0 +1,8 @@
+{
+    "name": "com.unreal-team.git.package",
+    "version": "1.0.0",
+    "displayName": "Unreal Team",
+    "description": "This package includes many of German and Misha's developments that they have applied to projects",
+    "dependencies": {},
+    "license": "https://mit-license.org/"
+}
